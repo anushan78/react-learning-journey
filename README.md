@@ -19,7 +19,7 @@ Understand how React works — components, props, and state.
 - Lists and keys  
 
 ### 🧠 Practice Project
-📘 **Project:** [React To-Do App](#) *(link to repo once created)*  
+📘 **Project:** [React To-Do App](https://github.com/anushan78/react-todo-app) *(link to repo once created)*  
 **Features:**
 - Add/remove tasks  
 - Show total count  
