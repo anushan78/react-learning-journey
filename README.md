@@ -35,7 +35,7 @@ react-todo-app/
 │ └── index.js
 └── README.md
 
-📘 **Project:** 🌦️ Weather Tracker App (React + TypeScript + Vite)(https://github.com/anushan78/react-weather-tracker)
+📘 **Project:** 🌦️ [Weather Tracker App](https://github.com/anushan78/react-weather-tracker)
 **Features:**
 - Search for any city worldwide
 - Display temperature, weather condition, and wind speed
