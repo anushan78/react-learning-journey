@@ -19,7 +19,7 @@ Understand how React works — components, props, and state.
 - Lists and keys  
 
 ### 🧠 Practice Project
-📘 **Project:** [React To-Do App](https://github.com/anushan78/react-todo-app) *(link to repo once created)*  
+📘 **Project:** [React To-Do App](https://github.com/anushan78/react-todo-app)
 **Features:**
 - Add/remove tasks  
 - Show total count  
@@ -34,3 +34,23 @@ react-todo-app/
 │ │ └── TodoList.js
 │ └── index.js
 └── README.md
+
+📘 **Project:** 🌦️ Weather Tracker App (React + TypeScript + Vite)(https://github.com/anushan78/react-weather-tracker)
+**Features:**
+- Search for any city worldwide
+- Display temperature, weather condition, and wind speed
+- Loading and error states
+- Reusable **custom hook**: `useFetch`
+- Type-safe components with **TypeScript**
+- Fast development with **Vite**
+
+  react-weather-tracker/
+├── index.html
+├── package.json
+└── src/
+├── main.tsx ← React entry point
+├── App.tsx ← Main app component
+├── hooks/
+│ └── useFetch.ts ← Custom reusable hook
+└── components/
+└── WeatherCard.tsx ← Weather display card
